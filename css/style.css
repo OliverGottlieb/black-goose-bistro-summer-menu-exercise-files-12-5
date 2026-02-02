@@ -26,3 +26,16 @@ strong {
 dt strong {color: tomato;}
 
 #info {color: cadetblue;}
+
+#info p {font-style: italic;}
+
+.price {
+font-style: italic;
+color: gray;
+}
+
+.label {
+font-variant: small-caps;
+font-style: normal;
+}
+
