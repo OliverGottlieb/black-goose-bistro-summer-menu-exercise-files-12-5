@@ -48,4 +48,12 @@ body {
 font-family: Georgia, serif;
 }
 
+h1{
+font:bold 1.5rem "Marko One" , Georgia, Serif;
+color: olivedrab;
+}
+
+h1, h2, #info{
+text-align:center;
+}
 
